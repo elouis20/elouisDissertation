@@ -1,1 +1,5 @@
+This folder contains the code and data for Chapter 6. This uses both PIPR and SREC, so the Ch4 and Ch5 code must be in the current folder or added to the path - all of the histogram and interval functions from SREC are used, as well as the Pareto relaxation function.
 
+This folder contains the 5000 vehicle data set 
+
+This folder also contains the scripts that make the vehicle indexes and pie charts of the solution sets found in the appendices. It also has the code that generates the DSE figures in Ch6 and the corresponding animations.
