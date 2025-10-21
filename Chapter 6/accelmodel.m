@@ -87,7 +87,7 @@ Tcurve = [84 0.5*Tmax
 % (idle speed), hits a range where torque is relatively flat between 1500
 % and 2300 rpm, and then slowly falls off as it approaches redline at 3600
 
-%this is a notional large diesel torque curve shape, loosely based on the
+%this is a general large diesel torque curve shape, loosely based on the
 %6.5L used in the HMMWV. The sharp rise, constant midrange, and slow
 %drop-off are generally characteristic of big diesel engines
 
@@ -261,5 +261,6 @@ fontname('Times New Roman')
 figure('Position',[100 100 400 250]);
 plot(thist,hphist,'-k')
 fontname('Times New Roman')
+
 
 toc
