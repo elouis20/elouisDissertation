@@ -10,3 +10,5 @@ Chapter 4 involves uncertainty quantification. Most of this section of the repos
 Chapter 5 introduces PIPR, which generates a set of choice solutions to a MOO problem, given a rank-order of objectives and a subset of critical sub-problems. This chapter also utilizes some files from MathWorks and the SFU library
 
 Chapter 6 combines the methods introduced in Chapters 4 and 5 to approach a mutli-objective ground vehicle design problem with aleatory uncertainty.
+
+Several of the processes introduced here also lend themselves well to animation, or in some cases are even best visualized using an animation. To support some of the figures and explanations in the document, I've made a good handful of gifs, mainly for the design space exploration process and the PIPR loop
