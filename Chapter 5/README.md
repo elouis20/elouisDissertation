@@ -26,3 +26,11 @@ The example using optimization test case function uses the code developed for th
 https://www.sfu.ca/~ssurjano/index.html
 
 The test functions used are the Booth, Matyas, McCormick, Powersum, and Zakharov functions.
+# EV Dataset
+
+The dataset used in the last example is available here
+
+https://data.mendeley.com/datasets/tb9yrptydn/2
+
+Citation:
+Hadasik, Bartłomiej; Kubiczek, Jakub (2021), “Dataset of electric passenger cars with their specifications”, Mendeley Data, V2, doi: 10.17632/tb9yrptydn.2
